@@ -1,0 +1,15 @@
+{
+  "name": "kiruu-glory-bot",
+  "version": "1.0.0",
+  "description": "KIRUU Glory Bot with local gaming tips, Free Fire UID lookup, and owner order requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
